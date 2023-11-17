@@ -2,7 +2,7 @@ module github.com/anchore/syft
 
 go 1.21.0
 
-replace github.com/anchore/stereoscope => github.com/Sam12121/stereoscope v0.0.0-20231117135939-d600ec6
+replace github.com/anchore/stereoscope => github.com/Sam12121/stereoscope v0.0.0-20231117185939-d600ec69a458
 
 require (
 	github.com/CycloneDX/cyclonedx-go v0.7.2
