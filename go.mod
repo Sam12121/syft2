@@ -76,6 +76,7 @@ require (
 	golang.org/x/term v0.13.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1
 	modernc.org/sqlite v1.26.0
+	github.com/AdaLogics/go-fuzz-headers v0.0.0
 
 )
 
